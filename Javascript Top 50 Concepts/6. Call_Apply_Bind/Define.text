@@ -1,0 +1,11 @@
+## this keyword is basically used for pointing objects and its properties.
+
+## call()
+1) call method helps in borrowing the function from another object.
+2) call method helps in calling the objects inside the function.
+
+## apply()
+1) The apply() method is similar to call(), but it passes arguments in an array.
+
+## bind()
+1) it returns a new function that can be called later.

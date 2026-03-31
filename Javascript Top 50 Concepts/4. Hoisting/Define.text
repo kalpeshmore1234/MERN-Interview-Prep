@@ -10,4 +10,4 @@ Using a let variable before it is declared will result in a ReferenceError.
 The variable is in a "temporal dead zone" from the start of the block until it is declared:
 
 
-## Also the Functions like arrow functions need to declared at the top.
+## Also the arrow Functions declared with let and const needs to declared at the top otherwise it will give errors if they are used before intialization.
